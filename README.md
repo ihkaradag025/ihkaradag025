@@ -50,9 +50,7 @@ Here are some ideas to get you started:
 
 <!-- 👯 I’m looking for a job to develop myself and company.-->
 
+<h2>🏆 Github Profile Trophy</h2>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=ihkaradag025&column=9&theme=gruvbox&no-frame=true"/>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ibrahim-karadağ/) 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ihkarada025)  
-
-dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 -->
