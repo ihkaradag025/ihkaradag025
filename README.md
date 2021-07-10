@@ -6,8 +6,6 @@
 ![DevOps.png](./DevOps.png)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihkaradag025&show_icons=true&theme=onedark)<br>
-
 <!--[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ibrahim-hakkı-karadağ)
 [![GitHub Follow Badge](https://img.shields.io/github/followers/ihkaradag025?label=follow&style=social)](https://github.com/ihkarad025)<br>
@@ -24,13 +22,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihkaradag025&show_icons=true&theme=onedark)<br>
-![](https://komarev.com/ghpvc/?username=fatihtepe)
+![](https://komarev.com/ghpvc/?username=ihkaradag025)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ihkaradag025/)
 [![GitHub Follow Badge](https://img.shields.io/github/followers/ihkaradag025?label=follow&style=social)](https://github.com/ihkaradag025)
-
-### Hi there 👋
-
-I'm İbrahim Hakkı KARADAĞ
 
 - ✨ Please Feel Free to Reach Out if You Have Any Questions or Suggestions<br>
 - You can show some   ❤️    &nbsp; by starring some of the repositories 😄 
