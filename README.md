@@ -1,7 +1,7 @@
 ## Hi there 👋
 <h1>I'm İbrahim Hakkı KARADAĞ</h1>
 
-# <h2>`AWS & DevOps Engineer`</h2>
+# <h2>`DevOps Engineer`</h2>
 
 ![DevOps.png](./DevOps.png)
 
